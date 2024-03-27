@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "36d9a2978d3ae7e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a69e4692dc63f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f769fdf6505ac9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Core/01-Mensajeros del Cielo y el Infierno/Mensajeros del Cielo y el Infierno.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f336cbaf8a3d514b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Core/04-Reglas y sistema de juego/Reglas y sistema de juego.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13bf7bc5ed7ffd61",
+    "type": "split",
+    "children": [
+      {
+        "id": "355af3f3ab708839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff8cc7ff5a0b113",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e0a83dd6f5ed13a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c6d43217e5b2b35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95d842011a94f72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a818d41438d52205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4171b00ecd9011b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Core/04-Reglas y sistema de juego/Reglas y sistema de juego.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c533f697fa68198",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Core/04-Reglas y sistema de juego/Reglas y sistema de juego.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90c90752113c9cf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dad25de9222db4e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Core/04-Reglas y sistema de juego/Reglas y sistema de juego.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f336cbaf8a3d514b",
+  "lastOpenFiles": [
+    "00-Core/03-Jerarquías/Jerarquías.md",
+    "00-Core/04-Reglas y sistema de juego/Reglas y sistema de juego.md",
+    "00-Core/04-Reglas y sistema de juego",
+    "00-Core/02-Separación de las Realidades Supremas/Separación de las Realidades Supremas.md",
+    "00-Core/03-Jerarquías",
+    "00-Core/01-Mensajeros del Cielo y el Infierno/Mensajeros del Cielo y el Infierno.md",
+    "00-Core/02-Separación de las Realidades Supremas",
+    "zz-atachments",
+    "zz-templates",
+    "README.md",
+    "00-Core/01-Mensajeros del Cielo y el Infierno",
+    "00-Core"
+  ]
+}
